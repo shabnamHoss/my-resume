@@ -34,13 +34,41 @@
 hr {
     height: 5px !important;
     color: rgb(87 186 134);
+    margin: 0px;
 }
 .box{
     background-color: rgb(87 186 134);
-    height: 50px;
+    height: 53px;
     width: 35px;
     margin-right: 5px;
 }
 .title{
     color: rgb(87 186 134);
+    text-transform: uppercase;
+}
+.sub-title{
+    color: grey;
+    font-style: italic;
+}
+
+.bg-badge-dark{
+    background-color: darkolivegreen;
+}
+.bg-badge{
+    background-color: olivedrab;
+}
+
+.badge {
+    text-transform: uppercase;
+    color: white;
+}
+
+.row-title {
+    padding-top:20px
+}
+
+.heading3{
+    color: grey;
+    font-size: 14px;
+
 }
