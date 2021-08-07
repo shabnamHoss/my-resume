@@ -35,3 +35,12 @@ hr {
     height: 5px !important;
     color: rgb(87 186 134);
 }
+.box{
+    background-color: rgb(87 186 134);
+    height: 50px;
+    width: 35px;
+    margin-right: 5px;
+}
+.title{
+    color: rgb(87 186 134);
+}
