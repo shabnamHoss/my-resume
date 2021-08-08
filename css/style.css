@@ -7,8 +7,8 @@
 
 .bg-img {
     background-color: rgb(87 186 134);
-    height: 100px;
-    width: 130px;
+    height: 110px;
+    width: 134px;
     margin-right: 15px;
 }
 
@@ -44,7 +44,9 @@ hr {
 }
 .title{
     color: rgb(87 186 134);
-    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    
 }
 .sub-title{
     color: grey;
@@ -52,10 +54,10 @@ hr {
 }
 
 .bg-badge-dark{
-    background-color: darkolivegreen;
+    background-color:#93c47d;
 }
 .bg-badge{
-    background-color: olivedrab;
+    background-color: #b6d7a8;
 }
 
 .badge {
